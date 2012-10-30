@@ -1,0 +1,6 @@
+c:\users\tsvet_000\documents\visual studio 2012\Projects\WindowsAutoShutDowner\WindowsAutoShutDowner\bin\Debug\WindowsAutoShutDowner.exe.config
+c:\users\tsvet_000\documents\visual studio 2012\Projects\WindowsAutoShutDowner\WindowsAutoShutDowner\bin\Debug\WindowsAutoShutDowner.exe
+c:\users\tsvet_000\documents\visual studio 2012\Projects\WindowsAutoShutDowner\WindowsAutoShutDowner\bin\Debug\WindowsAutoShutDowner.pdb
+c:\users\tsvet_000\documents\visual studio 2012\Projects\WindowsAutoShutDowner\WindowsAutoShutDowner\obj\Debug\WindowsAutoShutDowner.csprojResolveAssemblyReference.cache
+c:\users\tsvet_000\documents\visual studio 2012\Projects\WindowsAutoShutDowner\WindowsAutoShutDowner\obj\Debug\WindowsAutoShutDowner.exe
+c:\users\tsvet_000\documents\visual studio 2012\Projects\WindowsAutoShutDowner\WindowsAutoShutDowner\obj\Debug\WindowsAutoShutDowner.pdb
